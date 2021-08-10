@@ -3,3 +3,4 @@ python
 kubernetes
 docker
 jenkins
+Ansible
