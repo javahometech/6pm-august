@@ -5,4 +5,4 @@ docker
 jenkins
 Ansible
 AWS
-Hadoop & Map Reduce
+Hadoop & Map Reduceq
