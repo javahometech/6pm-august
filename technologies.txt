@@ -7,3 +7,5 @@ Ansible
 AWS
 Hadoop & Map Reduceq
 ElasticSearch
+Hadoop & Map Reduce
+GoLang
