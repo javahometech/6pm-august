@@ -7,3 +7,4 @@ changes added in feature-1
 Madhya Pradesh
 Mumbai
 Kerala
+Goa
